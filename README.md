@@ -39,7 +39,7 @@ Config.Safezones = {
 You can also customize the blip appearance on the map:
 
 ```lua
-Config.BlipColor = 3 -- Dark Blue
+Config.BlipColor = 0 -- Black
 Config.BlipAlpha = 128 -- Medium transparency (0-255)
 ```
 
